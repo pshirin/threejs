@@ -232,3 +232,8 @@ const tick = () => {
 };
 
 tick();
+
+const foo = () => {
+  const s = "test";
+  return s;
+};
